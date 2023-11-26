@@ -37,5 +37,7 @@ display_totext([file_path], [remove_special=False]) # by default remove_special,
 ``` 
 
 **Upcoming updates include the ability to process batch PDFs.**
+
+
 **The project is licensed under MIT, and anyone is free to contribute. Please raise an issue before committing.**
 
