@@ -4,7 +4,7 @@ Previously, performing optical character recognition (OCR) in machine learning w
 The nougat-op library changes this by leveraging the Nougat Deep Learning Model from Meta to perform OCR on any academic PDFs and extract the text.
 
 
-To use the library, you will need Python 3.8 or higher.
+**To use the library, you will need Python 3.8 or higher.**
 
 #### How to install?
 ```
