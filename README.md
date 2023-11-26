@@ -23,7 +23,7 @@ Here are some reasons why you should use the nougat-op library:
 
 #### Example
 
-**For converting pdf to text:**
+**For converting pdf to text**
 ```Python
 from nougatop import pdf_totext
 # pdf_totext([file_path], [output_directory])
